@@ -1,7 +1,7 @@
 # Projeto proposto pela [Digital One](https://digitalinnovation.one/)
 
-#Tecnoligias usadas
+#Tecnologias usadas
 
-> HTML
+> HTML :html
 > CSS
 
